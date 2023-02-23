@@ -1,3 +1,6 @@
+# Open/closed principle
+# Entidades devem estar abertas para extensão, mas fechadas para modificação.
+
 require_relative "./services/messaging"
 require_relative "./entities/order"
 require_relative "./services/persistency"
